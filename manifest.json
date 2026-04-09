@@ -2,7 +2,7 @@
   "id": "/motorcycle-merge/",
   "name": "Motorcycle Merge",
   "short_name": "MotoMerge",
-  "start_url": "index.html",
+  "start_url": "/motorcycle-merge/index.html",
   "display": "fullscreen",
   "background_color": "#05050a",
   "theme_color": "#ffcc33",
