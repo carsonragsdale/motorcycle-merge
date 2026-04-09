@@ -1,32 +1,33 @@
 {
-  "id": "/motorcycle-merge/",
   "name": "Motorcycle Merge",
   "short_name": "MotoMerge",
-  "start_url": "/motorcycle-merge/index.html",
-  "display": "fullscreen",
+  "start_url": ".",
+  "display": "standalone",
   "background_color": "#05050a",
   "theme_color": "#ffcc33",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "icon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot1.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "High speed lane filtering"
+    },
+    {
+      "src": "screenshot2.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Night mode dodging"
     }
   ]
 }
-"screenshots": [
-  {
-    "src": "screenshot1.png",
-    "sizes": "1080x1920",
-    "type": "image/png",
-    "form_factor": "narrow",
-    "label": "High-speed lane filtering gameplay"
-  },
-  {
-    "src": "screenshot2.png",
-    "sizes": "1080x1920",
-    "type": "image/png",
-    "form_factor": "narrow",
-    "label": "Dodge traffic and survive the merge"
-  }
-]
