@@ -1,7 +1,7 @@
 {
   "name": "Motorcycle Merge",
   "short_name": "MotoMerge",
-  "start_url": "/motorcycle-merge/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#05050a",
   "theme_color": "#ffcc33",
@@ -20,6 +20,8 @@
       "purpose": "maskable"
     }
   ],
+  "screenshots": [
+    {
       "src": "screenshot1.png",
       "sizes": "1080x1920",
       "type": "image/png",
