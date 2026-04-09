@@ -1,2 +1,14 @@
 # motorcycle-merge
-This project explores how AI manages logic and real-time physics. As an open-source experiment, it documents using an LLM to build a full game from scratch.  Motorcycle Merge is a high-speed lane-filterer. Navigate dense traffic as difficulty scales with your speed. Dodge cars, rack up distance, and test your reflexes. Survive the merge.
+This is a project I’ve been working on to explore how modern AI handles logical structures and real-time game physics. I wanted to see if I could use an LLM as a collaborative "lead dev" to build a fully functional arcade game from scratch, testing its ability to manage state, collision math, and aesthetic consistency.
+
+Motorcycle Merge is the result of that experiment. It’s a high-speed, lane-filtering arcade game where you play as a rider navigating through dense highway traffic. The goal is simple: survive as long as you can. The difficulty scales dynamically—the further you travel, the faster the world moves, requiring quicker reflexes to dodge oncoming cars.
+
+I’ve kept this project open-source because it serves as a live documentation of AI-assisted development. From the relative-velocity physics (making traffic feel like it's moving forward while you overtake it) to the atmospheric Night Mode toggles, almost every mechanic was iterated on through conversation. It’s a look at how we can use these tools to bridge the gap between an idea and a playable product.
+
+Controls For Web Browser:
+
+    A / Left Arrow: Move Left
+
+    D / Right Arrow: Move Right
+
+    Goal: Dodge traffic, rack up distance, and don’t get totaled.
