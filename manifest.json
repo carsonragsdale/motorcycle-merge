@@ -1,0 +1,15 @@
+{
+  "name": "Motorcycle Merge",
+  "short_name": "MotoMerge",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "background_color": "#05050a",
+  "theme_color": "#ffcc33",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
