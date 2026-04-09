@@ -14,3 +14,19 @@
     }
   ]
 }
+"screenshots": [
+  {
+    "src": "screenshot1.png",
+    "sizes": "1080x1920",
+    "type": "image/png",
+    "form_factor": "narrow",
+    "label": "High-speed lane filtering gameplay"
+  },
+  {
+    "src": "screenshot2.png",
+    "sizes": "1080x1920",
+    "type": "image/png",
+    "form_factor": "narrow",
+    "label": "Dodge traffic and survive the merge"
+  }
+]
